@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: markgordon97@gmail.com
 
-- 😄 Pronouns: he/him ☘️:rainbow:
+- 😄 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
