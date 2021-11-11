@@ -1,6 +1,6 @@
 ### My name is Mark 👋
 
-- 🔭 I recently completed a Diploma Full Stack Software Development in the Code Institute / UCD professional Academy.
+- 🔭 I recently completed a Diploma Full Stack Software Development at the Code Institute / UCD professional Academy.
 
 - 🌱 I’m currently studying:
   - Angular js and TypeScript
