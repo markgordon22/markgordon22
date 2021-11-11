@@ -6,7 +6,7 @@
   - Angular js and TypeScript
 
 - I'm currently working with:
-  - Wrky, where I am doing front-end development on the website on a part time baisis before I receive a position as a full time developer!
+  - Wrky, where I am doing front-end development on the website on a part time basis.
 
 - 📫 How to reach me: markgordon97@gmail.com
 
