@@ -3,7 +3,7 @@
 - 🔭 I recently completed a Diploma Full Stack Software Development at the Code Institute / UCD professional Academy.
 
 - 🌱 I’m currently studying:
-  - Angular
+  - Angular, C# and React
 
 - I'm currently working with:
   - Wrky, where I am doing front-end development on the website on a part time basis.
